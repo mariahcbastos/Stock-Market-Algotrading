@@ -2,9 +2,9 @@
 
 ## Authors
 
-Mariah Bastos 
-Rene Villarreal 
-Xiomara Chirinos 
+### Mariah Bastos 
+### Rene Villarreal 
+### Xiomara Chirinos 
 
 ## Overview
 
